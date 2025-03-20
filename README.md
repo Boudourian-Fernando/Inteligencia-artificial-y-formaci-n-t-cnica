@@ -1,1 +1,2 @@
-# Inteligencia-artificial-y-formaci-n-t-cnica
+# Inteligencia-artificial-y-formación-técnica
+La inteligencia artificial transforma la manera en que trabajamos, y la educación técnica debe evolucionar con ella. En lugar de competir con la automatización, los profesionales deben enfocarse en habilidades que las máquinas no pueden replicar: resolución de problemas, adaptabilidad y pensamiento estratégico. La clave está en combinar formación técnica con competencias que aseguren relevancia en el mercado laboral.
